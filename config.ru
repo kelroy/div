@@ -1,6 +1,6 @@
 require 'rubygems'
 require 'sinatra'
-require 'server'
+require 'div'
 
 run Sinatra::Application
 
